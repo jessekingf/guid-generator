@@ -3,8 +3,8 @@ set -e
 
 # Build parameters
 src=../src
-sln=$src/Example.sln
-mainProj=$src/Example/Example.csproj
+sln=$src/GuidGenerator.sln
+mainProj=$src/GuidGenerator/GuidGenerator.csproj
 
 dist=../dist
 publishDir=$dist/Publish
