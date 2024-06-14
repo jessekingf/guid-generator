@@ -5,11 +5,10 @@ A small command-line utility to generate [GUID](https://en.wikipedia.org/wiki/Un
 ## Usage
 
 ```shell
-gg [Number] [Options]
+guid [Number] [Options]
 ```
 
 Number:
-
 
 ```text
 The number of GUIDs to generate.
